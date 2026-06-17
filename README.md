@@ -29,7 +29,3 @@ goit-markup-hw-01/
 ├── .prettierrc.json # конфігурація Prettier
 └── README.md
 ```
-
-## Запуск
-
-Відкрий файл `index.html` у браузері — окрема збірка чи залежності не потрібні.
